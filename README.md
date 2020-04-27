@@ -25,7 +25,7 @@
 - [x] BOT COMMENT Target Post
 - [x] BOT COMMENT group Post
 - [x] Mass delete Post
-- [x] Mass accept friend
+- [x] Mass accept friends
 - [x] Mass delete friend
 - [x] ACreate Post
 - [x] Create Wordlist
@@ -44,4 +44,4 @@
     or
     $ python2 fbtool.py
 
-
+<img src="https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png>
