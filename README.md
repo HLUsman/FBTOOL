@@ -44,4 +44,6 @@
     or
     $ python2 fbtool.py
 
-<img src="https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png>
+## EXAMPLE
+
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
