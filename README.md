@@ -1,6 +1,6 @@
-## FBTOOL
+## FBTOOL FOR ANONYSPHINX PHILIPPINES
 
-## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTON
+## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTHON
 
 ## FEATURES:
 - [x] NORMAL LOGIN
@@ -15,7 +15,7 @@
 - [x] Get email friend from friend
 - [x] Get a friend's phone number
 - [x] Get a friend's phone number from friend
-- [x] SMini Hack Facebook(Target)
+- [x] Mini Hack Facebook(Target)
 - [x] Multi Bruteforce Facebook
 - [x] Super Multi Bruteforce Facebook
 - [x] BruteForce(Target)
@@ -38,8 +38,10 @@
     $ git clone https://github.com/mkdirlove/FBTOOL
     $ cd FBTOOL
 
-## Usage
+## USAGE
 
-    $ python3 fbtool.py
+    $ sudo python2 fbtool.py
+    or
+    $ python2 fbtool.py
 
 
